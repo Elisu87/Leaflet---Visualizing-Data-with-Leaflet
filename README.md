@@ -10,6 +10,10 @@ https://elisu87.github.io/Leaflet---Visualizing-Data-with-Leaflet/
 
 #### Technologies 
 
+- Leaflet
+- html
+- Java
+- CSS 
 
 #### Description
 
@@ -20,3 +24,5 @@ https://elisu87.github.io/Leaflet---Visualizing-Data-with-Leaflet/
   - Created a legend that will provide context for your map data.
 
 #### Visualization 
+
+![](Images/MapScreenShot.png)
